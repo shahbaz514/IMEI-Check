@@ -1,0 +1,60 @@
+[19-May-2023 08:45:03 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/services.php:8
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/services.php(8): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/services.php on line 8
+[19-May-2023 08:46:17 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/services.php:8
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/services.php(8): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/services.php on line 8
+[19-May-2023 08:54:48 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/services.php:5
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/services.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/services.php on line 5
+[19-May-2023 08:54:50 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/services.php:5
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/services.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/services.php on line 5
+[19-May-2023 08:54:51 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/services.php:5
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/services.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/services.php on line 5
+[24-May-2023 15:59:45 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/services.php:5
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/services.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/services.php on line 5
+[24-May-2023 16:05:41 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/services.php:5
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/services.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/services.php on line 5
+[24-May-2023 16:05:44 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/services.php:5
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/services.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/services.php on line 5
+[24-May-2023 16:06:44 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/groups.php:8
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/groups.php(8): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/groups.php on line 8
+[24-May-2023 16:06:47 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/groups.php:8
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/groups.php(8): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/groups.php on line 8
+[24-May-2023 16:06:49 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/groups.php:8
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/groups.php(8): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/groups.php on line 8
+[24-May-2023 16:20:15 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/api/old/groups.php:8
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/old/groups.php(8): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/old/groups.php on line 8

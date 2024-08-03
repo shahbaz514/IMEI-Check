@@ -1,0 +1,10 @@
+[22-May-2023 11:21:16 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required './vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/imeichec/public_html/beta/api/php-jwt/JwtHandler.php:8
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/php-jwt/index.php(22): require()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/php-jwt/JwtHandler.php on line 8
+[22-May-2023 11:21:22 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required './vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/imeichec/public_html/beta/api/php-jwt/JwtHandler.php:8
+Stack trace:
+#0 /home/imeichec/public_html/beta/api/php-jwt/index.php(22): require()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/api/php-jwt/JwtHandler.php on line 8

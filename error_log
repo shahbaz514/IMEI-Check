@@ -1,0 +1,1119 @@
+[20-Oct-2022 03:08:16 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price' in 'field list' in /home/imeichec/public_html/beta/editService.php:104
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(104): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 104
+[20-Oct-2022 03:08:33 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price' in 'field list' in /home/imeichec/public_html/beta/editService.php:104
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(104): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 104
+[05-Nov-2022 06:12:10 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:12:27 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:12:29 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:12:30 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:12:51 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:15:06 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:15:09 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:15:14 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:15:15 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:15:45 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:15:49 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:16:02 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:16:03 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:16:06 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[05-Nov-2022 06:16:20 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.Users' doesn't exist in /home/imeichec/public_html/beta/searchemei.php:38
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 38
+[08-Dec-2022 07:55:59 Europe/London] PHP Parse error:  syntax error, unexpected identifier "str", expecting "," or ";" in /home/imeichec/public_html/beta/index.php on line 181
+[08-Dec-2022 07:56:17 Europe/London] PHP Parse error:  syntax error, unexpected identifier "str", expecting "," or ";" in /home/imeichec/public_html/beta/index.php on line 181
+[08-Dec-2022 07:56:18 Europe/London] PHP Parse error:  syntax error, unexpected identifier "str", expecting "," or ";" in /home/imeichec/public_html/beta/index.php on line 181
+[08-Dec-2022 07:56:19 Europe/London] PHP Parse error:  syntax error, unexpected identifier "str", expecting "," or ";" in /home/imeichec/public_html/beta/index.php on line 181
+[08-Dec-2022 08:37:25 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@xyz.com', 'jazzd', '123456', 'Author', '3','Active')' at line 1 in /home/imeichec/public_html/beta/addUser.php:145
+Stack trace:
+#0 /home/imeichec/public_html/beta/addUser.php(145): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addUser.php on line 145
+[08-Dec-2022 08:37:44 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@xyz.com', 'jazzd', '123456', 'Author', '3','Active')' at line 1 in /home/imeichec/public_html/beta/addUser.php:145
+Stack trace:
+#0 /home/imeichec/public_html/beta/addUser.php(145): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addUser.php on line 145
+[08-Dec-2022 08:38:37 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com', 'jazzd', '1234', 'Author', '3','Active')' at line 1 in /home/imeichec/public_html/beta/addUser.php:145
+Stack trace:
+#0 /home/imeichec/public_html/beta/addUser.php(145): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addUser.php on line 145
+[08-Dec-2022 08:39:14 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com', 'jazzd', '1234', 'Author', '3','Active')' at line 1 in /home/imeichec/public_html/beta/addUser.php:145
+Stack trace:
+#0 /home/imeichec/public_html/beta/addUser.php(145): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addUser.php on line 145
+[08-Dec-2022 08:40:17 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com', 'ali123', '123456', 'Author', '1','Active')' at line 1 in /home/imeichec/public_html/beta/addUser.php:145
+Stack trace:
+#0 /home/imeichec/public_html/beta/addUser.php(145): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addUser.php on line 145
+[08-Dec-2022 08:40:52 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com', 'ali123', '123456', 'Author', '1','Active')' at line 1 in /home/imeichec/public_html/beta/addUser.php:145
+Stack trace:
+#0 /home/imeichec/public_html/beta/addUser.php(145): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addUser.php on line 145
+[08-Dec-2022 08:45:57 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@bbb.com', 'jazza', '123', 'Author', '1','Active')' at line 1 in /home/imeichec/public_html/beta/addUser.php:145
+Stack trace:
+#0 /home/imeichec/public_html/beta/addUser.php(145): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addUser.php on line 145
+[08-Dec-2022 11:28:49 Europe/London] PHP Parse error:  syntax error, unexpected token ">" in /home/imeichec/public_html/beta/services.php on line 91
+[08-Dec-2022 11:28:51 Europe/London] PHP Parse error:  syntax error, unexpected token ">" in /home/imeichec/public_html/beta/services.php on line 91
+[08-Dec-2022 11:28:53 Europe/London] PHP Parse error:  syntax error, unexpected token ">" in /home/imeichec/public_html/beta/services.php on line 91
+[08-Dec-2022 13:13:39 Europe/London] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/imeichec/public_html/beta/groups.php on line 46
+[08-Dec-2022 13:13:40 Europe/London] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/imeichec/public_html/beta/groups.php on line 46
+[08-Dec-2022 13:18:25 Europe/London] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/imeichec/public_html/beta/groups.php on line 46
+[08-Dec-2022 13:18:27 Europe/London] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/imeichec/public_html/beta/groups.php on line 46
+[08-Dec-2022 13:19:05 Europe/London] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/imeichec/public_html/beta/groups.php on line 46
+[08-Dec-2022 13:20:08 Europe/London] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/imeichec/public_html/beta/groups.php on line 46
+[08-Dec-2022 13:29:53 Europe/London] PHP Parse error:  syntax error, unexpected token "," in /home/imeichec/public_html/beta/groups.php on line 56
+[12-Dec-2022 11:05:20 Europe/London] PHP Parse error:  Unclosed '{' on line 141 in /home/imeichec/public_html/beta/searchemei.php on line 590
+[12-Dec-2022 11:05:21 Europe/London] PHP Parse error:  Unclosed '{' on line 141 in /home/imeichec/public_html/beta/searchemei.php on line 590
+[12-Dec-2022 11:05:22 Europe/London] PHP Parse error:  Unclosed '{' on line 141 in /home/imeichec/public_html/beta/searchemei.php on line 590
+[12-Dec-2022 11:05:25 Europe/London] PHP Parse error:  Unclosed '{' on line 141 in /home/imeichec/public_html/beta/searchemei.php on line 590
+[12-Dec-2022 11:06:13 Europe/London] PHP Parse error:  Unclosed '{' on line 141 in /home/imeichec/public_html/beta/searchemei.php on line 590
+[15-Dec-2022 06:25:49 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 259
+[15-Dec-2022 06:25:50 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 259
+[15-Dec-2022 06:25:51 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 259
+[15-Dec-2022 06:38:44 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:38:46 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:38:47 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:38:48 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:38:49 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:38:49 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:38:50 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:39:08 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:39:09 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:39:09 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:39:11 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:39:11 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:39:12 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:39:13 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:39:24 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:39:24 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:39:26 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:41:39 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:41:40 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:42:42 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:43:39 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:43:40 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:43:54 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:45:02 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:45:05 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:45:07 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:45:08 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 06:45:09 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 07:09:52 Europe/London] PHP Parse error:  Unclosed '{' on line 220 in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 07:12:43 Europe/London] PHP Parse error:  Unclosed '{' on line 220 in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 07:12:45 Europe/London] PHP Parse error:  Unclosed '{' on line 220 in /home/imeichec/public_html/beta/clients.php on line 245
+[15-Dec-2022 07:12:48 Europe/London] PHP Parse error:  Unclosed '{' on line 220 in /home/imeichec/public_html/beta/clients.php on line 245
+[19-Dec-2022 05:29:11 Europe/London] PHP Parse error:  syntax error, unexpected identifier "fa", expecting "," or ";" in /home/imeichec/public_html/beta/multiple2.php on line 183
+[19-Dec-2022 05:29:15 Europe/London] PHP Parse error:  syntax error, unexpected identifier "fa", expecting "," or ";" in /home/imeichec/public_html/beta/multiple2.php on line 183
+[19-Dec-2022 05:29:20 Europe/London] PHP Parse error:  syntax error, unexpected identifier "fa", expecting "," or ";" in /home/imeichec/public_html/beta/multiple2.php on line 183
+[19-Dec-2022 05:29:39 Europe/London] PHP Parse error:  syntax error, unexpected identifier "fa", expecting "," or ";" in /home/imeichec/public_html/beta/multiple2.php on line 183
+[19-Dec-2022 05:30:44 Europe/London] PHP Parse error:  syntax error, unexpected identifier "fa", expecting "," or ";" in /home/imeichec/public_html/beta/multiple2.php on line 183
+[16-Jan-2023 09:24:08 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '03214246279' in 'field list' in /home/imeichec/public_html/beta/signup.php:126
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(126): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 126
+[16-Jan-2023 09:24:41 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '03214246279' in 'field list' in /home/imeichec/public_html/beta/signup.php:126
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(126): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 126
+[16-Jan-2023 09:24:46 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '03214246279' in 'field list' in /home/imeichec/public_html/beta/signup.php:126
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(126): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 126
+[16-Jan-2023 09:26:23 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '03214246279' in 'field list' in /home/imeichec/public_html/beta/signup.php:127
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(127): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 127
+[16-Jan-2023 09:26:31 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '03214246279' in 'field list' in /home/imeichec/public_html/beta/signup.php:127
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(127): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 127
+[16-Jan-2023 09:26:59 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '03214246279' in 'field list' in /home/imeichec/public_html/beta/signup.php:127
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(127): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 127
+[16-Jan-2023 09:28:18 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '' in 'field list' in /home/imeichec/public_html/beta/signup.php:125
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(125): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 125
+[16-Jan-2023 09:29:17 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '' in 'field list' in /home/imeichec/public_html/beta/signup.php:125
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(125): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 125
+[16-Jan-2023 09:30:52 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '03214246278' in 'field list' in /home/imeichec/public_html/beta/signup.php:127
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(127): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 127
+[16-Jan-2023 09:31:04 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '03214246278' in 'field list' in /home/imeichec/public_html/beta/signup.php:127
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(127): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 127
+[16-Jan-2023 09:31:29 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '03214246278' in 'field list' in /home/imeichec/public_html/beta/signup.php:126
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(126): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 126
+[16-Jan-2023 12:24:51 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '03214246279' in 'field list' in /home/imeichec/public_html/beta/signup.php:126
+Stack trace:
+#0 /home/imeichec/public_html/beta/signup.php(126): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/signup.php on line 126
+[18-Jan-2023 15:49:15 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.catgories' doesn't exist in /home/imeichec/public_html/beta/category.php:98
+Stack trace:
+#0 /home/imeichec/public_html/beta/category.php(98): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/category.php on line 98
+[18-Jan-2023 15:49:50 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.catgories' doesn't exist in /home/imeichec/public_html/beta/category.php:98
+Stack trace:
+#0 /home/imeichec/public_html/beta/category.php(98): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/category.php on line 98
+[18-Jan-2023 15:57:17 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'position' in 'field list' in /home/imeichec/public_html/beta/addcat.php:117
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(117): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 117
+[18-Jan-2023 15:57:47 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'position' in 'field list' in /home/imeichec/public_html/beta/addcat.php:117
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(117): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 117
+[18-Jan-2023 16:49:00 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.category' doesn't exist in /home/imeichec/public_html/beta/editService.php:116
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(116): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 116
+[18-Jan-2023 16:49:15 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.category' doesn't exist in /home/imeichec/public_html/beta/editService.php:116
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(116): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 116
+[18-Jan-2023 16:49:23 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '5' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:49:29 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '5' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:49:53 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '2' WHERE id = '69'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:51:43 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '2' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:51:45 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '1' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:54:49 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '1' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:54:53 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '2' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:56:37 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '2' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:56:45 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '2' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:56:50 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '5' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:57:53 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '5' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:59:49 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '5' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 16:59:51 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '2' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 17:00:24 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = '2' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 17:00:27 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category = 'samsung' WHERE id = '103'' at line 1 in /home/imeichec/public_html/beta/editService.php:156
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(156): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 156
+[18-Jan-2023 17:04:55 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.category' doesn't exist in /home/imeichec/public_html/beta/editService.php:116
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(116): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 116
+[18-Jan-2023 17:04:59 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.category' doesn't exist in /home/imeichec/public_html/beta/editService.php:116
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(116): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 116
+[18-Jan-2023 17:05:15 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.category' doesn't exist in /home/imeichec/public_html/beta/editService.php:116
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(116): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 116
+[18-Jan-2023 17:05:25 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.category' doesn't exist in /home/imeichec/public_html/beta/editService.php:116
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(116): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 116
+[18-Jan-2023 17:05:44 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.category' doesn't exist in /home/imeichec/public_html/beta/editService.php:116
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(116): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 116
+[18-Jan-2023 17:21:21 Europe/London] PHP Parse error:  syntax error, unexpected single-quoted string ".$rowServices[", expecting ")" in /home/imeichec/public_html/beta/searchemei.php on line 67
+[18-Jan-2023 17:23:45 Europe/London] PHP Parse error:  syntax error, unexpected single-quoted string ".$rowServices[", expecting ")" in /home/imeichec/public_html/beta/searchemei.php on line 67
+[18-Jan-2023 17:23:47 Europe/London] PHP Parse error:  syntax error, unexpected identifier "SELECT", expecting ")" in /home/imeichec/public_html/beta/searchemei.php on line 68
+[18-Jan-2023 17:23:48 Europe/London] PHP Parse error:  syntax error, unexpected identifier "SELECT", expecting ")" in /home/imeichec/public_html/beta/searchemei.php on line 68
+[18-Jan-2023 17:23:49 Europe/London] PHP Parse error:  syntax error, unexpected identifier "SELECT", expecting ")" in /home/imeichec/public_html/beta/searchemei.php on line 68
+[18-Jan-2023 17:23:50 Europe/London] PHP Parse error:  syntax error, unexpected identifier "SELECT", expecting ")" in /home/imeichec/public_html/beta/searchemei.php on line 68
+[18-Jan-2023 17:28:13 Europe/London] PHP Parse error:  syntax error, unexpected identifier "username", expecting "," or ";" in /home/imeichec/public_html/beta/searchemei.php on line 67
+[18-Jan-2023 17:28:15 Europe/London] PHP Parse error:  syntax error, unexpected identifier "username", expecting "," or ";" in /home/imeichec/public_html/beta/searchemei.php on line 67
+[18-Jan-2023 17:28:25 Europe/London] PHP Parse error:  syntax error, unexpected identifier "username", expecting "," or ";" in /home/imeichec/public_html/beta/searchemei.php on line 67
+[19-Jan-2023 08:00:42 Europe/London] PHP Fatal error:  Uncaught TypeError: sort(): Argument #1 ($array) must be of type array, mysqli_result given in /home/imeichec/public_html/beta/editService.php:118
+Stack trace:
+#0 /home/imeichec/public_html/beta/editService.php(118): sort()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editService.php on line 118
+[19-Jan-2023 08:11:35 Europe/London] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/imeichec/public_html/beta/services.php on line 139
+[19-Jan-2023 08:11:38 Europe/London] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/imeichec/public_html/beta/services.php on line 139
+[19-Jan-2023 08:11:55 Europe/London] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/imeichec/public_html/beta/services.php on line 139
+[19-Jan-2023 08:35:37 Europe/London] PHP Parse error:  syntax error, unexpected token "<" in /home/imeichec/public_html/beta/multiple2.php on line 69
+[19-Jan-2023 08:35:39 Europe/London] PHP Parse error:  syntax error, unexpected token "<" in /home/imeichec/public_html/beta/multiple2.php on line 69
+[19-Jan-2023 08:35:39 Europe/London] PHP Parse error:  syntax error, unexpected token "<" in /home/imeichec/public_html/beta/multiple2.php on line 69
+[19-Jan-2023 08:35:40 Europe/London] PHP Parse error:  syntax error, unexpected token "<" in /home/imeichec/public_html/beta/multiple2.php on line 69
+[19-Jan-2023 08:35:44 Europe/London] PHP Parse error:  syntax error, unexpected token "<" in /home/imeichec/public_html/beta/multiple2.php on line 69
+[20-Jan-2023 05:57:30 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE categories SET  position += 1 WHERE position >= 2' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 05:57:33 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE categories SET  position += 1 WHERE position >= 1' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 05:57:35 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE categories SET  position += 1 WHERE position >= 2' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 05:57:36 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE categories SET  position += 1 WHERE position >= 1' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 05:57:40 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE categories SET  position += 1 WHERE position >= 2' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 05:57:41 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE categories SET  position += 1 WHERE position >= 1' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 05:58:35 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE categories SET  position += 1 WHERE position >= 1' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 05:58:39 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE categories SET  position += 1 WHERE position >= 2' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 05:58:44 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE categories SET  position += 1 WHERE position >= 1' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 07:39:27 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:39:29 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:39:42 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:39:50 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:41:21 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:41:54 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:41:56 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:41:58 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:42:01 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:42:37 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:42:41 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:42:42 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:42:54 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:43:09 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:43:10 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:43:12 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:43:13 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:49:24 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:49:26 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 122
+[20-Jan-2023 07:49:53 Europe/London] PHP Parse error:  syntax error, unexpected token "if" in /home/imeichec/public_html/beta/editcat.php on line 121
+[20-Jan-2023 07:53:35 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'link' in 'field list' in /home/imeichec/public_html/beta/editcat.php:121
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(121): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 121
+[20-Jan-2023 07:58:12 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 07:59:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 08:01:54 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INTO categories (position)' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli->prepare()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 08:02:16 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INTO categories (position)' at line 1 in /home/imeichec/public_html/beta/editcat.php:123
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(123): mysqli->prepare()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 123
+[20-Jan-2023 08:24:50 Europe/London] PHP Parse error:  Unclosed '{' on line 129 in /home/imeichec/public_html/beta/services.php on line 194
+[20-Jan-2023 08:24:52 Europe/London] PHP Parse error:  Unclosed '{' on line 129 in /home/imeichec/public_html/beta/services.php on line 194
+[20-Jan-2023 08:25:30 Europe/London] PHP Parse error:  Unclosed '{' on line 114 in /home/imeichec/public_html/beta/services.php on line 195
+[20-Jan-2023 08:25:31 Europe/London] PHP Parse error:  Unclosed '{' on line 114 in /home/imeichec/public_html/beta/services.php on line 195
+[20-Jan-2023 08:25:32 Europe/London] PHP Parse error:  Unclosed '{' on line 114 in /home/imeichec/public_html/beta/services.php on line 195
+[20-Jan-2023 08:25:33 Europe/London] PHP Parse error:  Unclosed '{' on line 114 in /home/imeichec/public_html/beta/services.php on line 195
+[20-Jan-2023 08:25:34 Europe/London] PHP Parse error:  Unclosed '{' on line 114 in /home/imeichec/public_html/beta/services.php on line 195
+[20-Jan-2023 08:27:16 Europe/London] PHP Parse error:  Unclosed '{' on line 130 in /home/imeichec/public_html/beta/services.php on line 192
+[20-Jan-2023 08:27:18 Europe/London] PHP Parse error:  Unclosed '{' on line 130 in /home/imeichec/public_html/beta/services.php on line 192
+[20-Jan-2023 08:28:53 Europe/London] PHP Parse error:  Unclosed '{' on line 130 in /home/imeichec/public_html/beta/services.php on line 192
+[20-Jan-2023 08:28:54 Europe/London] PHP Parse error:  Unclosed '{' on line 130 in /home/imeichec/public_html/beta/services.php on line 192
+[20-Jan-2023 08:28:55 Europe/London] PHP Parse error:  Unclosed '{' on line 112 in /home/imeichec/public_html/beta/services.php on line 198
+[20-Jan-2023 08:28:59 Europe/London] PHP Parse error:  Unclosed '{' on line 112 in /home/imeichec/public_html/beta/services.php on line 198
+[20-Jan-2023 08:28:59 Europe/London] PHP Parse error:  Unclosed '{' on line 112 in /home/imeichec/public_html/beta/services.php on line 198
+[20-Jan-2023 08:29:00 Europe/London] PHP Parse error:  Unclosed '{' on line 112 in /home/imeichec/public_html/beta/services.php on line 198
+[20-Jan-2023 08:29:36 Europe/London] PHP Parse error:  Unclosed '{' on line 112 in /home/imeichec/public_html/beta/services.php on line 198
+[20-Jan-2023 08:29:37 Europe/London] PHP Parse error:  Unclosed '{' on line 112 in /home/imeichec/public_html/beta/services.php on line 198
+[20-Jan-2023 10:42:36 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE position = '4'' at line 1 in /home/imeichec/public_html/beta/editcat.php:121
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(121): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 121
+[20-Jan-2023 10:42:38 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE position = '2'' at line 1 in /home/imeichec/public_html/beta/editcat.php:121
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(121): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 121
+[20-Jan-2023 10:49:27 Europe/London] PHP Parse error:  syntax error, unexpected token "=>" in /home/imeichec/public_html/beta/editcat.php on line 118
+[20-Jan-2023 10:49:29 Europe/London] PHP Parse error:  syntax error, unexpected token "=>" in /home/imeichec/public_html/beta/editcat.php on line 118
+[20-Jan-2023 10:49:30 Europe/London] PHP Parse error:  syntax error, unexpected token "=>" in /home/imeichec/public_html/beta/editcat.php on line 118
+[20-Jan-2023 11:13:34 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/editcat.php on line 124
+[20-Jan-2023 11:13:35 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/editcat.php on line 124
+[20-Jan-2023 11:13:36 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/editcat.php on line 124
+[20-Jan-2023 12:22:50 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/editcat.php on line 124
+[20-Jan-2023 12:22:52 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/editcat.php on line 124
+[20-Jan-2023 13:04:16 Europe/London] PHP Fatal error:  Uncaught TypeError: shuffle(): Argument #1 ($array) must be of type array, null given in /home/imeichec/public_html/beta/editcat.php:133
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(133): shuffle()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 133
+[20-Jan-2023 13:04:34 Europe/London] PHP Fatal error:  Uncaught TypeError: shuffle(): Argument #1 ($array) must be of type array, null given in /home/imeichec/public_html/beta/editcat.php:133
+Stack trace:
+#0 /home/imeichec/public_html/beta/editcat.php(133): shuffle()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/editcat.php on line 133
+[20-Jan-2023 15:06:40 Europe/London] PHP Parse error:  Unclosed '{' on line 28 in /home/imeichec/public_html/beta/demo.php on line 37
+[20-Jan-2023 15:06:47 Europe/London] PHP Parse error:  Unclosed '{' on line 28 in /home/imeichec/public_html/beta/demo.php on line 37
+[20-Jan-2023 15:07:37 Europe/London] PHP Parse error:  Unclosed '{' on line 54 in /home/imeichec/public_html/beta/demo.php on line 63
+[20-Jan-2023 15:07:38 Europe/London] PHP Parse error:  Unclosed '{' on line 54 in /home/imeichec/public_html/beta/demo.php on line 63
+[20-Jan-2023 15:07:39 Europe/London] PHP Parse error:  Unclosed '{' on line 54 in /home/imeichec/public_html/beta/demo.php on line 63
+[20-Jan-2023 15:08:29 Europe/London] PHP Parse error:  Unclosed '{' on line 54 in /home/imeichec/public_html/beta/demo.php on line 63
+[20-Jan-2023 15:11:09 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:11:11 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:11:13 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:11:13 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:11:14 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:11:15 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:26:47 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:29:04 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:29:11 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:29:14 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:29:57 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:30:03 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:31:44 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:31:47 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:33:49 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:37:07 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:38:36 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:45:16 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:46:28 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:46:30 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:49:34 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:49:37 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:49:43 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:49:51 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:50:40 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:50:41 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:52:23 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 30
+[20-Jan-2023 15:55:20 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/sort.php on line 45
+[20-Jan-2023 15:55:25 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/sort.php on line 45
+[20-Jan-2023 15:55:32 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/sort.php on line 45
+[20-Jan-2023 15:57:35 Europe/London] PHP Parse error:  syntax error, unexpected token "*" in /home/imeichec/public_html/beta/sort.php on line 35
+[20-Jan-2023 16:00:31 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 29
+[20-Jan-2023 16:00:34 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 29
+[20-Jan-2023 16:21:21 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 19
+[20-Jan-2023 16:21:26 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 19
+[20-Jan-2023 16:22:14 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 19
+[20-Jan-2023 16:22:18 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 19
+[20-Jan-2023 16:22:47 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 19
+[20-Jan-2023 16:22:51 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 19
+[20-Jan-2023 16:23:01 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 19
+[20-Jan-2023 16:23:45 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 19
+[20-Jan-2023 16:32:09 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'page_list'' at line 1 in /home/imeichec/public_html/beta/sort.php:28
+Stack trace:
+#0 /home/imeichec/public_html/beta/sort.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 28
+[20-Jan-2023 16:32:29 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'page_list'' at line 1 in /home/imeichec/public_html/beta/sort.php:28
+Stack trace:
+#0 /home/imeichec/public_html/beta/sort.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 28
+[20-Jan-2023 16:32:32 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'page_list'' at line 1 in /home/imeichec/public_html/beta/sort.php:28
+Stack trace:
+#0 /home/imeichec/public_html/beta/sort.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 28
+[20-Jan-2023 16:37:02 Europe/London] PHP Parse error:  syntax error, unexpected double-quoted string "page_id_array", expecting ")" in /home/imeichec/public_html/beta/sort.php on line 28
+[20-Jan-2023 16:38:45 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 19
+[20-Jan-2023 16:49:59 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli::__construct(): Argument #1 ($hostname) must be of type ?string, mysqli given in /home/imeichec/public_html/beta/demo2.php:14
+Stack trace:
+#0 /home/imeichec/public_html/beta/demo2.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/demo2.php on line 14
+[20-Jan-2023 16:50:01 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli::__construct(): Argument #1 ($hostname) must be of type ?string, mysqli given in /home/imeichec/public_html/beta/demo2.php:14
+Stack trace:
+#0 /home/imeichec/public_html/beta/demo2.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/demo2.php on line 14
+[20-Jan-2023 17:30:33 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/imeichec/public_html/beta/db/db.php:2
+Stack trace:
+#0 /home/imeichec/public_html/beta/demo2.php(4): include()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/db/db.php on line 2
+[20-Jan-2023 17:30:35 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/imeichec/public_html/beta/db/db.php:2
+Stack trace:
+#0 /home/imeichec/public_html/beta/demo2.php(4): include()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/db/db.php on line 2
+[20-Jan-2023 17:30:40 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/imeichec/public_html/beta/db/db.php:2
+Stack trace:
+#0 /home/imeichec/public_html/beta/index.php(4): include()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/db/db.php on line 2
+[20-Jan-2023 17:30:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/imeichec/public_html/beta/db/db.php:2
+Stack trace:
+#0 /home/imeichec/public_html/beta/index.php(4): include()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/db/db.php on line 2
+[20-Jan-2023 17:35:07 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/imeichec/public_html/beta/demo3.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/demo3.php on line 23
+[20-Jan-2023 17:35:49 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/demo3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/demo3.php on line 27
+[20-Jan-2023 17:35:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/demo3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/demo3.php on line 27
+[20-Jan-2023 17:35:53 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/demo3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/demo3.php on line 27
+[20-Jan-2023 17:35:53 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/demo3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/demo3.php on line 27
+[20-Jan-2023 17:38:17 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/demo3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/demo3.php on line 27
+[20-Jan-2023 17:42:40 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(23): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:42:42 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(23): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:42:46 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(23): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:43:23 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(24): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:43:24 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(24): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:43:26 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(24): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:43:26 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(24): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:43:38 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(24): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:43:39 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(24): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:43:40 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(24): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:46:45 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/category.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/category.php on line 108
+[20-Jan-2023 17:47:02 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/category.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/category.php on line 102
+[20-Jan-2023 17:47:03 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/category.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/category.php on line 102
+[20-Jan-2023 17:53:16 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(15): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:53:17 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(15): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:53:18 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(15): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:53:18 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(15): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:53:56 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(15): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:53:57 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(15): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 17:53:58 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/demo3.php(15): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 18:08:40 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:111
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(111): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 111
+[20-Jan-2023 18:13:17 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/category.php(23): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 18:13:19 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/inc/head.php:56
+Stack trace:
+#0 /home/imeichec/public_html/beta/inc/head.php(56): mysqli_query()
+#1 /home/imeichec/public_html/beta/category.php(23): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/inc/head.php on line 56
+[20-Jan-2023 18:17:26 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY position' at line 1 in /home/imeichec/public_html/beta/addcat.php:111
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(111): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 111
+[20-Jan-2023 18:18:13 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:111
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(111): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 111
+[20-Jan-2023 18:18:15 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:111
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(111): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 111
+[20-Jan-2023 18:20:36 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:96
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(96): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 96
+[20-Jan-2023 18:20:40 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:96
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(96): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 96
+[20-Jan-2023 18:20:43 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:96
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(96): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 96
+[20-Jan-2023 18:21:21 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:96
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(96): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 96
+[20-Jan-2023 18:21:22 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:96
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(96): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 96
+[20-Jan-2023 18:21:26 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:96
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(96): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 96
+[20-Jan-2023 18:21:54 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:87
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 87
+[20-Jan-2023 18:21:57 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:87
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 87
+[20-Jan-2023 18:22:17 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:117
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(117): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 117
+[20-Jan-2023 18:22:51 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:87
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(87): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 87
+[20-Jan-2023 18:25:45 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:90
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(90): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 90
+[20-Jan-2023 18:25:47 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rev' in 'field list' in /home/imeichec/public_html/beta/addcat.php:90
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(90): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 90
+[20-Jan-2023 18:28:29 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MAX(rev) from categories where id=''' at line 1 in /home/imeichec/public_html/beta/addcat.php:88
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(88): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 88
+[20-Jan-2023 18:28:30 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MAX(rev) from categories where id=''' at line 1 in /home/imeichec/public_html/beta/addcat.php:88
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(88): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 88
+[20-Jan-2023 18:29:00 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MAX(rev) from categories GROUP BY id' at line 1 in /home/imeichec/public_html/beta/addcat.php:88
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(88): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 88
+[20-Jan-2023 18:29:01 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MAX(rev) from categories GROUP BY id' at line 1 in /home/imeichec/public_html/beta/addcat.php:88
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(88): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 88
+[20-Jan-2023 18:30:05 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MAX(rev) from categories GROUP BY id' at line 1 in /home/imeichec/public_html/beta/addcat.php:88
+Stack trace:
+#0 /home/imeichec/public_html/beta/addcat.php(88): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/addcat.php on line 88
+[20-Jan-2023 18:36:09 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/imeichec/public_html/beta/ajax.php:13
+Stack trace:
+#0 /home/imeichec/public_html/beta/ajax.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/ajax.php on line 13
+[20-Jan-2023 18:36:15 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/imeichec/public_html/beta/ajax.php:13
+Stack trace:
+#0 /home/imeichec/public_html/beta/ajax.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/ajax.php on line 13
+[20-Jan-2023 18:36:21 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/imeichec/public_html/beta/ajax.php:13
+Stack trace:
+#0 /home/imeichec/public_html/beta/ajax.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/ajax.php on line 13
+[20-Jan-2023 18:36:25 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/imeichec/public_html/beta/ajax.php:13
+Stack trace:
+#0 /home/imeichec/public_html/beta/ajax.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/ajax.php on line 13
+[20-Jan-2023 18:40:01 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/imeichec/public_html/beta/ajax.php:13
+Stack trace:
+#0 /home/imeichec/public_html/beta/ajax.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/ajax.php on line 13
+[20-Feb-2023 09:19:25 Europe/London] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/imeichec/public_html/beta/sort.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/sort.php on line 19
+[01-Mar-2023 12:12:44 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/imeichec/public_html/beta/ajax.php:13
+Stack trace:
+#0 /home/imeichec/public_html/beta/ajax.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/ajax.php on line 13
+[01-Mar-2023 12:12:48 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/imeichec/public_html/beta/ajax.php:13
+Stack trace:
+#0 /home/imeichec/public_html/beta/ajax.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/ajax.php on line 13
+[01-Mar-2023 12:14:59 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'imeichec_apios.user' doesn't exist in /home/imeichec/public_html/beta/demo3.php:80
+Stack trace:
+#0 /home/imeichec/public_html/beta/demo3.php(80): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/demo3.php on line 80
+[01-Mar-2023 12:17:18 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/imeichec/public_html/beta/ajaxs.php:13
+Stack trace:
+#0 /home/imeichec/public_html/beta/ajaxs.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/ajaxs.php on line 13
+[01-Mar-2023 12:18:04 Europe/London] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/imeichec/public_html/beta/services.php on line 46
+[01-Mar-2023 12:18:06 Europe/London] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/imeichec/public_html/beta/services.php on line 46
+[01-Mar-2023 12:18:07 Europe/London] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/imeichec/public_html/beta/services.php on line 46
+[01-Mar-2023 12:18:24 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/imeichec/public_html/beta/ajaxs.php:13
+Stack trace:
+#0 /home/imeichec/public_html/beta/ajaxs.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/ajaxs.php on line 13
+[01-Mar-2023 12:23:06 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/services.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/services.php on line 138
+[01-Mar-2023 12:23:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/services.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/services.php on line 138
+[01-Mar-2023 12:23:33 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/services.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/services.php on line 138
+[01-Mar-2023 12:23:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/services.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/services.php on line 138
+[01-Mar-2023 12:23:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/services.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/services.php on line 138
+[01-Mar-2023 12:23:58 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/services.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/services.php on line 138
+[01-Mar-2023 12:23:59 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/imeichec/public_html/beta/services.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/services.php on line 138
+[15-Mar-2023 12:04:01 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'imeichec_apios'@'localhost' (using password: YES) in /home/imeichec/public_html/beta/db/db.php:2
+Stack trace:
+#0 /home/imeichec/public_html/beta/db/db.php(2): mysqli_connect()
+#1 /home/imeichec/public_html/beta/searchemei.php(4): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/db/db.php on line 2
+[15-Apr-2023 12:01:38 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'imeichec_apios'@'localhost' (using password: YES) in /home/imeichec/public_html/beta/db/db.php:2
+Stack trace:
+#0 /home/imeichec/public_html/beta/db/db.php(2): mysqli_connect()
+#1 /home/imeichec/public_html/beta/orderHistory.php(4): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/db/db.php on line 2
+[15-Apr-2023 12:01:44 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'imeichec_apios'@'localhost' (using password: YES) in /home/imeichec/public_html/beta/db/db.php:2
+Stack trace:
+#0 /home/imeichec/public_html/beta/db/db.php(2): mysqli_connect()
+#1 /home/imeichec/public_html/beta/orderHistory.php(4): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/db/db.php on line 2
+[15-Apr-2023 12:01:50 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'imeichec_apios'@'localhost' (using password: YES) in /home/imeichec/public_html/beta/db/db.php:2
+Stack trace:
+#0 /home/imeichec/public_html/beta/db/db.php(2): mysqli_connect()
+#1 /home/imeichec/public_html/beta/orderHistory.php(4): include('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/db/db.php on line 2
+[31-May-2023 20:32:12 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #2 ($string) must be of type string, stdClass given in /home/imeichec/public_html/beta/searchemei.php:429
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(429): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 429
+[31-May-2023 20:32:28 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #2 ($string) must be of type string, stdClass given in /home/imeichec/public_html/beta/searchemei.php:429
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(429): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 429
+[14-Jun-2023 10:37:41 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/searchemei.php on line 584
+[14-Jun-2023 10:37:43 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/searchemei.php on line 584
+[14-Jun-2023 10:37:56 Europe/London] PHP Parse error:  Unmatched '}' in /home/imeichec/public_html/beta/searchemei.php on line 584
+[14-Jun-2023 10:39:33 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #2 ($string) must be of type string, stdClass given in /home/imeichec/public_html/beta/searchemei.php:429
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(429): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 429
+[14-Jun-2023 10:40:36 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #2 ($string) must be of type string, stdClass given in /home/imeichec/public_html/beta/searchemei.php:429
+Stack trace:
+#0 /home/imeichec/public_html/beta/searchemei.php(429): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/searchemei.php on line 429

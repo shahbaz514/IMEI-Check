@@ -1,0 +1,16 @@
+ if ($link == 'https://si')
+                {
+                    $myResultHTML = json_decode(curl_exec($ch));
+                }
+                else
+                {
+                    $myResult = json_decode(curl_exec($ch));
+                }
+                $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+                curl_close($ch);
+                if ($httpcode != 200) {
+                    echo "Error: HTTP Code $httpcode";
+                } else {
+                if ($link == 'https://si')
+                {
+                    $result = mysqli_real_escape_string($db, $myResultHTML->result);

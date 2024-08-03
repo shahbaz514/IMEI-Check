@@ -1,0 +1,69 @@
+[24-May-2023 11:58:12 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'imeichec_apios'@'localhost' (using password: YES) in /home/imeichec/public_html/beta/apiv/connection.php:8
+Stack trace:
+#0 /home/imeichec/public_html/beta/apiv/connection.php(8): mysqli_connect()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/connection.php on line 8
+[24-May-2023 11:58:44 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/apiv/getuser.php:10
+Stack trace:
+#0 /home/imeichec/public_html/beta/apiv/getuser.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/getuser.php on line 10
+[24-May-2023 11:58:46 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/apiv/getuser.php:10
+Stack trace:
+#0 /home/imeichec/public_html/beta/apiv/getuser.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/getuser.php on line 10
+[24-May-2023 11:58:47 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/apiv/getuser.php:10
+Stack trace:
+#0 /home/imeichec/public_html/beta/apiv/getuser.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/getuser.php on line 10
+[24-May-2023 11:58:48 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/apiv/getuser.php:10
+Stack trace:
+#0 /home/imeichec/public_html/beta/apiv/getuser.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/getuser.php on line 10
+[24-May-2023 11:58:49 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/apiv/getuser.php:10
+Stack trace:
+#0 /home/imeichec/public_html/beta/apiv/getuser.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/getuser.php on line 10
+[24-May-2023 12:49:53 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'imeichec_apios'@'localhost' (using password: YES) in /home/imeichec/public_html/beta/apiv/Dbconnect.php:8
+Stack trace:
+#0 /home/imeichec/public_html/beta/apiv/Dbconnect.php(8): mysqli_connect()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/Dbconnect.php on line 8
+[24-May-2023 12:54:21 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/imeichec/public_html/beta/apiv/getuser.php:10
+Stack trace:
+#0 /home/imeichec/public_html/beta/apiv/getuser.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/getuser.php on line 10
+[24-May-2023 12:54:57 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from users WHERE username='' and password=''' at line 1 in /home/imeichec/public_html/beta/apiv/getuser.php:10
+Stack trace:
+#0 /home/imeichec/public_html/beta/apiv/getuser.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/getuser.php on line 10
+[24-May-2023 12:58:56 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'DbConnect.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/imeichec/public_html/beta/apiv/api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/api.php on line 3
+[24-May-2023 12:59:44 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'DbConnect.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/imeichec/public_html/beta/apiv/api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/api.php on line 3
+[24-May-2023 13:03:04 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'DbConnect.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/imeichec/public_html/beta/apiv/api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/api.php on line 3
+[24-May-2023 13:03:06 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'DbConnect.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/imeichec/public_html/beta/apiv/api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/api.php on line 3
+[24-May-2023 13:04:02 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'DbConnect.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/imeichec/public_html/beta/apiv/api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/api.php on line 3
+[24-May-2023 16:39:35 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'DbConnect.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/imeichec/public_html/beta/apiv/api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/imeichec/public_html/beta/apiv/api.php on line 3

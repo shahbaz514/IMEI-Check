@@ -1,0 +1,37 @@
+[16-Oct-2022 05:20:25 Europe/London] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.3.33. in /home/imeichec/public_html/beta/paypal/vendor/composer/platform_check.php on line 24
+[16-Oct-2022 05:21:58 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/imeichec/public_html/beta/paypal/config.php:14
+Stack trace:
+#0 /home/imeichec/public_html/beta/paypal/config.php(14): mysqli->__construct()
+#1 /home/imeichec/public_html/beta/paypal/charge.php(2): require_once('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/paypal/config.php on line 14
+[16-Oct-2022 05:22:02 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/imeichec/public_html/beta/paypal/config.php:14
+Stack trace:
+#0 /home/imeichec/public_html/beta/paypal/config.php(14): mysqli->__construct()
+#1 /home/imeichec/public_html/beta/paypal/charge.php(2): require_once('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/paypal/config.php on line 14
+[16-Oct-2022 05:22:05 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/imeichec/public_html/beta/paypal/config.php:14
+Stack trace:
+#0 /home/imeichec/public_html/beta/paypal/config.php(14): mysqli->__construct()
+#1 /home/imeichec/public_html/beta/paypal/charge.php(2): require_once('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/paypal/config.php on line 14
+[16-Oct-2022 05:23:15 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/imeichec/public_html/beta/paypal/config.php:14
+Stack trace:
+#0 /home/imeichec/public_html/beta/paypal/config.php(14): mysqli->__construct()
+#1 /home/imeichec/public_html/beta/paypal/charge.php(2): require_once('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/paypal/config.php on line 14
+[16-Oct-2022 05:24:53 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/imeichec/public_html/beta/paypal/config.php:14
+Stack trace:
+#0 /home/imeichec/public_html/beta/paypal/config.php(14): mysqli->__construct()
+#1 /home/imeichec/public_html/beta/paypal/charge.php(2): require_once('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/paypal/config.php on line 14
+[16-Oct-2022 05:24:55 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/imeichec/public_html/beta/paypal/config.php:14
+Stack trace:
+#0 /home/imeichec/public_html/beta/paypal/config.php(14): mysqli->__construct()
+#1 /home/imeichec/public_html/beta/paypal/charge.php(2): require_once('/home/imeichec/...')
+#2 {main}
+  thrown in /home/imeichec/public_html/beta/paypal/config.php on line 14
